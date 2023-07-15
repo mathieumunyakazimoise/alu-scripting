@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" 3-count.py """
+"""Count it"""
 import json
 import requests
 
